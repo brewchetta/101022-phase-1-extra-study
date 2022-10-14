@@ -1,0 +1,30 @@
+/* blockbuster yellow - #F7A404 */
+/* blockbuster blue - #0E3DA3 */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+h1.store-banner {
+    background-color: #0E3DA3;
+    color: #F7A404;
+    font-family: 'Roboto', sans-serif;
+    padding: 0.5em;
+    text-align: center;
+}
+
+div.vhs-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+div.vhs-card {
+    background-color: #0E3DA3;
+    color: #F7A404;
+    margin-bottom: 1em;
+    padding: 0.5em;
+    width: 30%;
+}
+
+div.vhs-card img {
+    width: 100%;
+}

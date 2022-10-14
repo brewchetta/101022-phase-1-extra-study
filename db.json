@@ -1,0 +1,46 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "title": "Face/Off",
+            "img_url": "https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+            "price": "$$"
+        },
+        {
+            "id": 2,
+            "title": "It",
+            "img_url": "https://m.media-amazon.com/images/M/MV5BYjg1YTRkNzQtODgyYi00MTQ5LThiMDYtNDJjMWRjNTdjZDZlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+            "price": "$"
+        },
+        {
+            "id": 3,
+            "title": "Balto",
+            "img_url": "https://m.media-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+            "price": "$$$"
+        },
+        {
+            "id": 4,
+            "title": "Clueless",
+            "img_url": "https://i.ytimg.com/vi/93Y6nTwxSJI/movieposter_en.jpg",
+            "price": "$$"
+        },
+        {
+            "id": 5,
+            "title": "The Nightmare Before Christmas",
+            "img_url": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_.jpg",
+            "price": "$$$"
+        },
+        {
+            "id": 6,
+            "title": "Ernest Goes to Jail",
+            "img_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Ernest_goes_to_jail_poster.jpg",
+            "price": "$"
+        },
+        {
+            "id": 7,
+            "title": "Event Horizon",
+            "img_url": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+            "price": "$$"
+        }
+    ]
+}
