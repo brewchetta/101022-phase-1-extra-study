@@ -48,4 +48,10 @@ Make a fetch request to get all the VHS cassettes. **For each** VHS cassette, cr
 
 Be sure to replace the appropriate text with the proper information! This includes the `alt` text!
 
-If you finish quickly, feel free to add additional styling to this page such as a background image, make the banner more exciting, or make the movie card more interesting. See if you can flex those CSS muscles!
+### Bonus Deliverables: Styling
+
+Feel free to add additional styling to this page such as a background image, make the banner more exciting, or make the movie card more interesting. See if you can flex those CSS muscles!
+
+### Bonus Deliverables: Technical
+
+Before adding the cards to the DOM, sort the array of rental videos alphabetically by title. Be sure to look up examples and documentation!
