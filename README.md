@@ -2,7 +2,7 @@
 
 This is an *optional* project to prepare you for the phase 1 code challenge. You'll be building this project over the course of several days in addition to labs, readings, and lectures.
 
-While you can work together, remember that you'll take the code challenge individually so please make sure you understand how the project is working for yourself!
+You can work alone or in small groups.
 
 ## Getting Started
 
@@ -36,6 +36,8 @@ Later on you'll be asked to make a POST and a DELETE request. For the POST reque
 
 You're building a website for a VHS rental store! They've provided you with the information you'll need in a `db.json` file as well as some rudimentary styling and a basic `index.html`. Your first tasks are this:
 
+Firstly, delete the `div`s and their contents with a class of `vhs-card`. These are meant to be examples of what the final product might look like.
+
 Make a fetch request to get all the VHS cassettes. **For each** VHS cassette, create a new element and display it in the `.vhs-container` in a card like this:
 
 ```html
@@ -50,8 +52,14 @@ Be sure to replace the appropriate text with the proper information! This includ
 
 ### Bonus Deliverables: Styling
 
-Feel free to add additional styling to this page such as a background image, make the banner more exciting, or make the movie card more interesting. See if you can flex those CSS muscles!
+Feel free to add additional styling to this page such as a background image, make the banner more exciting, or make the movie card more interesting. I strongly suggest adding a flexbox so that cards will line up next to each other!
 
 ### Bonus Deliverables: Technical
 
-Before adding the cards to the DOM, sort the array of rental videos alphabetically by title. Be sure to look up examples and documentation!
+If a vhs rental doesn't have an image associated with it, show the vhs tape image instead. The `img` tag you create might look something like this:
+
+```html
+<img src='assets/vhs.jpg' alt='default image' />
+```
+
+Additionally, before adding the cards to the DOM, sort the array of rental videos alphabetically by title. Be sure to look up examples and documentation!
