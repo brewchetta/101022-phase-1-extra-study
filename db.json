@@ -15,7 +15,6 @@
         {
             "id": 3,
             "title": "Balto",
-            "img_url": "https://m.media-amazon.com/images/M/MV5BMjBhNmFlZjMtMzhlYy00NDBlLWFiMjctMmE0ZjgwOGM2MTNmXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
             "price": "$$$"
         },
         {
@@ -32,12 +31,17 @@
         },
         {
             "id": 6,
+            "title": "Halloween",
+            "price": "$$"
+        },
+        {
+            "id": 7,
             "title": "Ernest Goes to Jail",
             "img_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Ernest_goes_to_jail_poster.jpg",
             "price": "$"
         },
         {
-            "id": 7,
+            "id": 8,
             "title": "Event Horizon",
             "img_url": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
             "price": "$$"

@@ -12,9 +12,7 @@ h1.store-banner {
 }
 
 div.vhs-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
+  /* try adding a flexbox here... */
 }
 
 div.vhs-card {
