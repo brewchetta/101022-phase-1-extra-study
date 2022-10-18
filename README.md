@@ -63,3 +63,19 @@ If a vhs rental doesn't have an image associated with it, show the vhs tape imag
 ```
 
 Additionally, before adding the cards to the DOM, sort the array of rental videos alphabetically by title. Be sure to look up examples and documentation!
+
+## Day Two Deliverables
+
+Add a new form to the HTML above the `vhs-container`. The form should have inputs for the movie title, movie image url, and the price. For an additional challenge, make the price a select tag with options `$`, `$$`, and `$$$`.
+
+When the form is submitted, add the new VHS entry to the DOM. Additionally, create a POST request to your `json-server` to persist the VHS tape so it will remain on refresh.
+
+### Bonus Deliverables: Styling
+
+The form should be nicely styled. Additionally, go to google fonts and research how to add new font families to the project!
+
+### Bonus Deliverables: Technical
+
+The form should not accept blank inputs (you shouldn't be able to create a movie with a blank title).
+
+Additionally, create a DELETE button that removes it from both the front end DOM and the back end `json-server`.
